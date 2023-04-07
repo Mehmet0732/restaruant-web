@@ -2,10 +2,15 @@
 
 :root {
     /* CSS Değişkenleri tanımlıyoruz*/
-    --main-color: #e84242;
+    --main-color: #ff7518;
+    --black-color: #003153;
+    --border: 0.1rem solid rgba(255, 255, 255, 0.4);
+   /*
+       --main-color: #e84242;
     --black-color: #201f1f;
     --border: 0.1rem solid rgba(255, 255, 255, 0.4);
-
+   
+   */
 
 }
 
